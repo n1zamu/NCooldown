@@ -55,22 +55,32 @@ PlaceHolder - %time% - time left to use chat!
 There is support for color codes!
 
   noPermission: "&fYou don't have permission to reload cooldowns" - Text when you don't have permission to use commands.
+  
   unknownUsage: "&fUse: /ncooldowns reload" - Text when reloading the database for administration.
+  
   successfullyReload: "&ncooldowns successfully reloaded!" - Text when reloading the database for the administration
+  
   joinMessage: "&fYou are new to the server! Play &6%time% to write in chat!" - Text for newcomer on the server
+  
   blockMessage: "&fYou haven't played the time yet! Wait &6%time%!" - Text when trying to send a message from a player who hasn't played back the time.
+  
   notEnoughArgumentsMessage: "&fNot enough arguments!" - Text when there are not enough items to send a command
+  
   doubleDotMessage: "&fColon commands are forbidden!" - Text when sending a colon command
 
 cooldown: 600 - Delay for newcomers on the server!
+
 doubleDotCommands: true - Disable commands with a colon, like minecraft:me.
+
 notification: - Notifies the player of the elapsed time.
 
-  sound: true - Sound when notifying the player
-  soundType: "ENTITY_EXPERIENCE_ORB_PICKUP" - Type of sound when notifying the player
+sound: true - Sound when notifying the player
 
-  message: true - As a message to the chat room
-  title: false - As a full screen message
+soundType: "ENTITY_EXPERIENCE_ORB_PICKUP" - Type of sound when notifying the player
+
+message: true - As a message to the chat room
+
+title: false - As a full screen message
 
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 
@@ -80,21 +90,32 @@ notification: - Notifies the player of the elapsed time.
 Есть поддержка цветовых кодов!
 
   noPermission: "&fУ вас нет прав для перезагрузки кулдаунов" - Текст при отсутствие прав на использование команд
+  
   unknownUsage: "&fИспользование: /ncooldowns reload" - Текст при перезагрузке базы данных для администрации
+  
   successfullyReload: "&cКулдауны успешно перезагружены!" - Текст при перезагрузке базы данных для администрации
+  
   joinMessage: "&fТы новичок на сервере! Отыграй &6%time% чтобы писать в чат!" - Текст для новичка на сервере
+  
   blockMessage: "&fТы еще не отыграл время! Подожди &6%time%!" - Текст при попытке отправить сообщение от игрока, который не отыграл время.
+  
   notEnoughArgumentsMessage: "&fНедостаточно аргументов!" - Текст при недостатке элементов для отправки команды
+  
   doubleDotMessage: "&fКоманды через двоеточие запрещены!" - Текст при отправке команды через двоеточие
 
 cooldown: 600 - Задержка для новичков на сервере!
+
 doubleDotCommands: true - Отключение команд через двоеточие, по типу minecraft:me
+
 notification: - Оповещение игрока о прошедшем времени
 
   sound: true - Звук при оповещении игрока
+  
   soundType: "ENTITY_EXPERIENCE_ORB_PICKUP" - Тип звука при оповещении
 
   message: true - В виде сообщения в чат
+  
   title: false - В виде сообщения на весь экран
   
 # ⭐Leave star on this project if you like this!
+# ⭐Оставь звездочку если тебе понравился плагин!
