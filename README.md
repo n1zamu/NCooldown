@@ -10,19 +10,29 @@
 
 ## Description
 NCooldown - Плагин для серверов Minecraft версии 1.16.5. Помогает ограничить доступ к чату новичкам.
+
 Это делает спам на вашем сервере более сложным для недоброжелателей. 
+
 Также этот плагин не позволяет отправлять новым игрокам сообщения через двоеточие, по типу minecraft:me.
+
 NCooldowns имеет очень гибкую настройку, которая включает в себя тип уведомления, тип звука уведомления, различные сообщения для недействительных действий, время отключения чата для новичков.
+
 Сообщения в плагине имеют поддержку цветовых кодов через &.
+
 У плагина есть плэйсхолдер %time%, отображающий оставшееся время!
 
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 
 NCooldown - Plugin for Minecraft servers version 1.16.5. Helps to restrict access to chat to newbies.
+
 This makes spamming on your server more difficult for detractors. 
+
 Also, this plugin prevents you from sending new players messages via colon.
+
 NCooldowns has very flexible customization which includes notification type, notification sound type, different messages for invalid actions, time to disable chat to newbies.
+
 Messages in the plugin have support for color codes via &.
+
 The plugin has a %time% placeholder that displays the time remaining!
 
 ## Written on
@@ -50,7 +60,11 @@ It will create a nCooldowns folder in the plugins folder, where there will be a 
 ## Usage
 
 ### English Description:
+Permissions: 
 
+- nCooldowns.bypass - Bypass chat
+- nCooldowns.reload - Reload database
+  
 PlaceHolder - %time% - time left to use chat!
 There is support for color codes!
 
@@ -85,6 +99,10 @@ title: false - As a full screen message
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 
 ### Russian Description:
+Пермишены:
+
+- nCooldowns.bypass - Обход блокировки чата
+- nCooldowns.reload - Перезагрузка базы данных
 
 ПлэйсХолдер - %time% - время оставшееся для использования чата!
 Есть поддержка цветовых кодов!
