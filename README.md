@@ -116,6 +116,10 @@ notification: - Оповещение игрока о прошедшем врем
   message: true - В виде сообщения в чат
   
   title: false - В виде сообщения на весь экран
-  
+
+## Contacts
+### My Discord Tag: n1zamu
+![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
+
 # ⭐Leave star on this project if you like this!
 # ⭐Оставь звездочку если тебе понравился плагин!
