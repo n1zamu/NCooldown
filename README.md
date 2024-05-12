@@ -1,6 +1,6 @@
 # NCooldowns
 
-## Table of Contents
+## Table of Contents 📃
 
 - [Description](#description)
 - [Screenshots](#screenshots)
@@ -8,7 +8,7 @@
 - [Usage](#usage)
 - [Contacts](#contacts)
 
-## Description
+## Description 💙
 NCooldown - Плагин для серверов Minecraft версии 1.16.5. Помогает ограничить доступ к чату новичкам.
 
 Это делает спам на вашем сервере более сложным для недоброжелателей. 
@@ -35,16 +35,16 @@ Messages in the plugin have support for color codes via &.
 
 The plugin has a %time% placeholder that displays the time remaining!
 
-## Written on
+## Written on 👩‍💻
 ![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=0000CD)
 ![Bukkit](https://img.shields.io/badge/-Bukkit-7B68EE?style=for-the-badge)
 
-## Screenshots
+## Screenshots 📸
 ![Example](https://github.com/n1zamu/NCooldown/blob/main/screenshots/example.png)
 ![Example](https://github.com/n1zamu/NCooldown/blob/main/screenshots/example1.png)
 ![Example](https://github.com/n1zamu/NCooldown/blob/main/screenshots/example2.png)
 
-### Installation
+### Installation 🌙
 Latest version - https://github.com/n1zamu/NCooldown/releases/
 
 Download the latest version and place it in the PLUGINS DIR on your server.
