@@ -32,14 +32,14 @@ NCooldowns - это надежный плагин, предназначенны�
 
 ### Installation 🌙
 
-1. Download the NCooldowns plugin from the [official repository](https://github.com/n1zamu/n1zamu).
+1. Download the NCooldowns plugin from the [official repository](https://github.com/n1zamu/NCooldown).
 2. Place the downloaded `.jar` file into your server's `plugins` folder.
 3. Restart the server to load the plugin.
 4. Configure the plugin to suit your server's needs (see [Configuration](#configuration)).
 
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 
-1. Скачайте плагин NCooldowns из [официального репозитория](https://github.com/n1zamu/n1zamu).
+1. Скачайте плагин NCooldowns из [официального репозитория](https://github.com/n1zamu/NCooldown).
 2. Поместите скачанный файл `.jar` в папку `plugins` вашего сервера.
 3. Перезапустите сервер для загрузки плагина.
 4. Настройте плагин в соответствии с потребностями вашего сервера (см. [Конфигурация](#configuration)).
