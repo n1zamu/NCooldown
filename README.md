@@ -1,39 +1,21 @@
-# NCooldowns
+# NCooldowns README
+
+Welcome to the NCooldowns plugin README! NCooldowns is designed for Minecraft servers, specifically for version 1.16.5. It focuses on enhancing server moderation by restricting chat access for new players and managing command usage more securely.
 
 ## Table of Contents 📃
 
 - [Description](#description)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
 - [Features](#features)
+- [Getting Started](#getting-started)
+- [Configuration](#configuration)
+- [Commands and Permissions](#commands-and-permissions)
+- [Screenshots](#screenshots)
 - [Contacts](#contacts)
 
 ## Description 💙
-NCooldown - Плагин для серверов Minecraft версии 1.16.5. Помогает ограничить доступ к чату новичкам.
 
-Это делает спам на вашем сервере более сложным для недоброжелателей. 
+NCooldowns is a robust plugin tailored to improve the control over chat functionalities on Minecraft servers. It prevents spam effectively by setting initial chat restrictions for newcomers and blocks specific commands like those using colons (e.g., `minecraft:me`). The plugin offers comprehensive customization options, from notification styles and sound types to detailed message configurations using Minecraft color codes. A special placeholder, `%time%`, is included to inform users about their remaining wait time before they can chat.
 
-Также этот плагин не позволяет отправлять новым игрокам сообщения через двоеточие, по типу minecraft:me.
-
-NCooldowns имеет очень гибкую настройку, которая включает в себя тип уведомления, тип звука уведомления, различные сообщения для недействительных действий, время отключения чата для новичков.
-
-Сообщения в плагине имеют поддержку цветовых кодов через &.
-
-У плагина есть плэйсхолдер %time%, отображающий оставшееся время!
-
-![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
-
-NCooldown - Plugin for Minecraft servers version 1.16.5. Helps to restrict access to chat to newbies.
-
-This makes spamming on your server more difficult for detractors. 
-
-Also, this plugin prevents you from sending new players messages via colon.
-
-NCooldowns has very flexible customization which includes notification type, notification sound type, different messages for invalid actions, time to disable chat to newbies.
-
-Messages in the plugin have support for color codes via &.
-
-The plugin has a %time% placeholder that displays the time remaining!
 
 ## Written on 👩‍💻
 ![Java](https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=0000CD)
