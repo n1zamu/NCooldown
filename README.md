@@ -57,10 +57,6 @@ It will create a nCooldowns folder in the plugins folder, where there will be a 
 Скачайте последнюю версию и поместите ее в PLUGINS DIR на вашем сервере.
 Он создаст папку nCooldowns в папке plugins, где будет находиться файл database.db, содержащий базы данных игроков, и файл config.yml для гибкой настройки плагина.
 
-# nCooldowns Plugin Documentation
-
-Welcome to the nCooldowns plugin! This powerful tool is designed to manage chat and command cooldowns on your Minecraft server to enhance moderation and user experience. Below you'll find a detailed guide to getting started with nCooldowns, including permissions, features, and configuration options.
-
 ## Features 🌟
 
 - **Cooldown Management:** Enforce custom cooldown periods for chat and command usage to prevent spam and maintain server health.
