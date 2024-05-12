@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+- [Usage](#features)
 - [Contacts](#contacts)
 
 ## Description 💙
