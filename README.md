@@ -5,16 +5,20 @@ Welcome to the NCooldowns plugin README! NCooldowns is designed for Minecraft se
 ## Table of Contents 📃
 
 - [Description](#description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Configuration](#configuration)
-- [Commands and Permissions](#commands-and-permissions)
+- [Written On](#written-on)
 - [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Features](#features)
+- [Commands and Permissions](#commands-and-permissions)
 - [Contacts](#contacts)
 
 ## Description 💙
 
 NCooldowns is a robust plugin tailored to improve the control over chat functionalities on Minecraft servers. It prevents spam effectively by setting initial chat restrictions for newcomers and blocks specific commands like those using colons (e.g., `minecraft:me`). The plugin offers comprehensive customization options, from notification styles and sound types to detailed message configurations using Minecraft color codes. A special placeholder, `%time%`, is included to inform users about their remaining wait time before they can chat.
+
+![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
+
+NCooldowns - это надежный плагин, предназначенный для улучшения контроля над функциями чата на серверах Minecraft. Он эффективно предотвращает спам, устанавливая начальные ограничения в чате для новичков, и блокирует специфические команды, например, использующие двоеточия (например, `minecraft:me`). Плагин предлагает широкие возможности настройки, от стилей уведомлений и типов звуков до детальной конфигурации сообщений с использованием цветовых кодов Minecraft. Для информирования пользователей об оставшемся времени ожидания, прежде чем они смогут написать в чат, в плагин включен специальный заполнитель `%time%`.
 
 
 ## Written on 👩‍💻
