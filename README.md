@@ -94,7 +94,7 @@ It will create a nCooldowns folder in the plugins folder, where there will be a 
 - notEnoughArgumentsMessage: "&fNot enough arguments!"
 - doubleDotMessage: "&fColon commands are forbidden!"
 
-## Contacts
+## Contacts 🔊
 
 ### My Discord Tag: n1zamu
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
