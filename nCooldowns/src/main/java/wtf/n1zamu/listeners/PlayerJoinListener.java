@@ -7,7 +7,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 
 import wtf.n1zamu.NCooldowns;
-import wtf.n1zamu.mysql.SQLite;
+import wtf.n1zamu.database.SQLite;
 import wtf.n1zamu.utils.TimeUtil;
 
 public class PlayerJoinListener implements Listener {

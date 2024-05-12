@@ -2,10 +2,9 @@ package wtf.n1zamu.utils;
 
 import org.bukkit.ChatColor;
 import org.bukkit.Sound;
-import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 import wtf.n1zamu.NCooldowns;
-import wtf.n1zamu.mysql.SQLite;
+import wtf.n1zamu.database.SQLite;
 
 public class TimeUtil {
     public static String formattedTime(int time) {

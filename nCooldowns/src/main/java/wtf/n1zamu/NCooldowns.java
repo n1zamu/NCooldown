@@ -5,7 +5,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.plugin.java.JavaPlugin;
 import wtf.n1zamu.commands.ReloadCommand;
 import wtf.n1zamu.listeners.*;
-import wtf.n1zamu.mysql.SQLite;
+import wtf.n1zamu.database.SQLite;
 
 public final class NCooldowns extends JavaPlugin {
     public static String logo = ChatColor.GOLD + "Задержка" + ChatColor.GRAY + " » ";
