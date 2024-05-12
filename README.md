@@ -77,7 +77,7 @@ It will create a nCooldowns folder in the plugins folder, where there will be a 
 
 - cooldown: 600 - Sets the initial cooldown for new players (in seconds).
 - doubleDotCommands: true - Disables commands containing colons, such as minecraft:me.
-- notification: Activate to notify players about the remaining cooldown time.
+### notification: Activate to notify players about the remaining cooldown time.
 - sound: true - Enable to use sound notifications.
 - soundType: "ENTITY_EXPERIENCE_ORB_PICKUP" - Sets the type of sound for notifications.
 - message: true - Send cooldown notifications as chat messages.
