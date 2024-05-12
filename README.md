@@ -31,17 +31,18 @@ NCooldowns - это надежный плагин, предназначенны�
 ![Example](https://github.com/n1zamu/NCooldown/blob/main/screenshots/example2.png)
 
 ### Installation 🌙
-Latest version - https://github.com/n1zamu/NCooldown/releases/
 
-Download the latest version and place it in the PLUGINS DIR on your server.
-It will create a nCooldowns folder in the plugins folder, where there will be a database.db file containing player databases and a config.yml file for flexible plugin customization.
+1. Download the NCooldowns plugin from the [official repository](https://github.com/n1zamu/n1zamu).
+2. Place the downloaded `.jar` file into your server's `plugins` folder.
+3. Restart the server to load the plugin.
+4. Configure the plugin to suit your server's needs (see [Configuration](#configuration)).
 
 ![Line](https://github.com/n1zamu/n1zamu/blob/main/assets/sepparator.png)
 
-Последняя версия - https://github.com/n1zamu/NCooldown/releases/
-
-Скачайте последнюю версию и поместите ее в PLUGINS DIR на вашем сервере.
-Он создаст папку nCooldowns в папке plugins, где будет находиться файл database.db, содержащий базы данных игроков, и файл config.yml для гибкой настройки плагина.
+1. Скачайте плагин NCooldowns из [официального репозитория](https://github.com/n1zamu/n1zamu).
+2. Поместите скачанный файл `.jar` в папку `plugins` вашего сервера.
+3. Перезапустите сервер для загрузки плагина.
+4. Настройте плагин в соответствии с потребностями вашего сервера (см. [Конфигурация](#configuration)).
 
 ## Features 🌟
 
