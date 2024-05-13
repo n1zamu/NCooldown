@@ -1,6 +1,6 @@
 # NCooldowns README
 
-Welcome to the NCooldowns plugin README! NCooldowns is designed for Minecraft servers, specifically for version 1.16.5. It focuses on enhancing server moderation by restricting chat access for new players and managing command usage more securely.
+welcome to the NCooldowns plugin README! NCooldowns is designed for Minecraft servers, specifically for version 1.16.5. It focuses on enhancing server moderation by restricting chat access for new players and managing command usage more securely.
 
 ## Table of Contents 📃
 
