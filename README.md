@@ -120,7 +120,7 @@ NCooldowns - это надежный плагин, предназначенны�
 
 ## Contacts 🔊
 
-### My Discord Tag: n1zamu
+### My Discord Tag: tranquilisators
 ![Discord](https://img.shields.io/badge/-Discord-4169E1?style=for-the-badge&logo=discord&logoColor=FFFFFF)
 
 
